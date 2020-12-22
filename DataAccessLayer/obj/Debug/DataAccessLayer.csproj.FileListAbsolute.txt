@@ -1,0 +1,13 @@
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\bin\Debug\AutoMapper.dll
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\ProjectVisualStudio\6-ciclo\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
